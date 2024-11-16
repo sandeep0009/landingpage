@@ -1,5 +1,4 @@
 import React from 'react'
-import { ShoppingCart } from 'lucide'
 import { FaShoppingCart } from 'react-icons/fa'
 
 const Header = () => {
@@ -25,11 +24,7 @@ const Header = () => {
                 <div className=''>
                     <FaShoppingCart color=''/>
                     <div className='rounded-full'>
-                        
-
-                    </div>
-
-                   
+                    </div>                   
                 </div>
             </div>
             
