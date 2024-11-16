@@ -21,9 +21,10 @@ const Header = () => {
 
             <div>
 
-                <div className=''>
-                    <FaShoppingCart color=''/>
+                <div className='flex justify-center gap-6 mt-2'>
+                    <FaShoppingCart className='mt-1 cursor-pointer'/>
                     <div className='rounded-full'>
+                        <img src="../images/image-avatar.png" alt="" className='h-6 w-6 cursor-pointer' />
                     </div>                   
                 </div>
             </div>
