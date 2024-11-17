@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import { FaShoppingCart } from 'react-icons/fa';
 import { images } from '../lib/image';
 import { useCart } from '../state/Context';

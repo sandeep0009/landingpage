@@ -1,4 +1,4 @@
-// Layout.tsx
+
 import { CartProvider } from "../state/Context";
 import { ReactNode } from 'react';
 
